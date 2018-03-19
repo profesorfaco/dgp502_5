@@ -4,9 +4,7 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 5 → Viernes
 
 ### Visualización de datos
 
-En [la clase recién pasada](https://github.com/profesorfaco/dgp502_4/)… 
-
-Hoy corresponde evaluación.
+En [la clase recién pasada](https://github.com/profesorfaco/dgp502_4/) avanzamos en D3.JS. En esta clase corresponde cerrar y evaluar la tercera iteración.
 
 - - - - 
 
