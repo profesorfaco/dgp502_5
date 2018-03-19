@@ -8,4 +8,4 @@ Hoy corresponde evaluación.
 
 - - - - 
 
-Avanzar a la siguiente clase…
+[Avanzar a la siguiente clase](https://github.com/profesorfaco/dgp502_6/)
