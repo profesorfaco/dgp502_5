@@ -18,9 +18,9 @@ A.4. En el repositorio se preocupa de incluir descripción, website y tópicos.
 
 B.1. Imagen y títulos en cabecera presentan el tema con brevedad y claridad. 
 
-B.2. Los datos en la cabecera ayudan a identificar autor, asuntos y palabras claves relacionadas con la página. 
+B.2. Los metadatos de la página ayudan a identificar autor (author), asuntos (description) y palabras claves (keywords) relacionadas al tema.
 
-B.3. El estilo CSS es modificado a la manera que corresponde a un diseñador gráfico (selección adecuada de tipografías, proporciones, tipografías, colores)
+B.3. El estilo CSS es modificado a la manera que corresponde a un diseñador gráfico (selección profesional de tipografías, proporciones y colores a nivel profesional)
 
 B.4. Los datos son actualizados, de fuente confiable y están todos relacionados con un tema particular. Con esto el resultado se hace consistente y profesional.
 
@@ -36,9 +36,7 @@ B.9. Segunda visualización: Utiliza d3, funciona con datos obtenidos de un CSV.
 
 B.10. Tercera presentación de visualización: El texto es breve, directo y utiliza tantos párrafos como son necesarios para separar las ideas. Además, destaca palabras claves y utiliza vínculos para ampliar la exploración del tema.
 
-**La nota máxima (7,0) se obtiene con 14 puntos.**
-
-**La recepción de trabajos termina a las 18.30 hrs. de hoy, viernes 20 de abril, 2018.**
+**La nota máxima (7,0) se obtiene con 14 puntos. La recepción de trabajos a evaluar termina a las 18.30 hrs. de hoy, viernes 20 de abril, 2018. Si su trabajo no es enviado en ese plazo, recibe nota mínima (1,0)**
 
 - - - - 
 
