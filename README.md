@@ -6,7 +6,7 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 5 → Viernes
 
 En [la clase recién pasada](https://github.com/profesorfaco/dgp502_4/) avanzamos en D3.JS. En esta clase corresponde cerrar y evaluar la segunda iteración.
 
-**La evaluación se divide en 2 partes: Formalidades de entrega (4 puntos) y calidad del trabajo (10 puntos)** 
+#### La evaluación se divide en 2 partes: Formalidades de entrega (4 puntos) y calidad del trabajo (10 puntos)
 
 A.1. Envía correo a profesor@faco.cl con asunto "Segunda evaluación".
 
@@ -37,6 +37,8 @@ B.9. Segunda visualización: Utiliza d3, funciona con datos obtenidos de un CSV.
 B.10. Tercera presentación de visualización: El texto es breve, directo y utiliza tantos párrafos como son necesarios para separar las ideas. Además, destaca palabras claves y utiliza vínculos para ampliar la exploración del tema.
 
 **La nota máxima (7,0) se obtiene con 14 puntos.**
+
+**La recepción de trabajos termina a las 18.30 hrs. de hoy, viernes 20 de abril, 2018.**
 
 - - - - 
 
