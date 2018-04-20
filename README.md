@@ -20,7 +20,7 @@ B.2. Los metadatos de la página ayudan a identificar autor (author), asuntos (d
 
 B.3. El estilo CSS es modificado a la manera que corresponde a un diseñador gráfico (selección profesional de tipografías, proporciones y colores a nivel profesional)
 
-B.4. Los datos son actualizados, de fuente confiable y están todos relacionados con un tema particular. Con esto el resultado se hace consistente y profesional.
+B.4. Los datos son actualizados, son de fuentes confiables y están todos relacionados con un tema particular. Con esto el resultado se hace consistente y profesional.
 
 B.5. Primera visualización: Utiliza d3.js, funciona con datos de un arreglo o un objeto, incluido directamente en una variable de nombre "data".
 
