@@ -10,9 +10,9 @@ En [la clase recién pasada](https://github.com/profesorfaco/dgp502_4/) avanzamo
 
 A.1. Envía correo a profesor@faco.cl con asunto "Segunda evaluación".
 
-A.2. En el cuerpo del correo enviado a profesor@faco.cl incluye 2 URLs. La primera corresponde al repositorio en que sube los documentos y la segunda corresponde a la GitHub Page, donde es posible visualizar su página web. 
+A.2. En el cuerpo del correo enviado a profesor@faco.cl incluye 2 URLs. La primera corresponde al repositorio al que sube los documentos, y la segunda corresponde a la GitHub Page donde es posible visualizar su página web. 
 
-A.3. En el repositorio tiene una única rama (branch): gh-pages.
+A.3. En el repositorio tiene una única rama (*branch*): gh-pages.
 
 A.4. En el repositorio se preocupa de incluir descripción, website y tópicos.
 
@@ -24,15 +24,15 @@ B.3. El estilo CSS es modificado a la manera que corresponde a un diseñador gr�
 
 B.4. Los datos son actualizados, de fuente confiable y están todos relacionados con un tema particular. Con esto el resultado se hace consistente y profesional.
 
-B.5. Primera visualización: Utiliza d3, funciona con datos incluidos en el mismo Script. 
+B.5. Primera visualización: Utiliza d3.js, funciona con datos de un arreglo o un objeto, incluido directamente en una variable de nombre "data".
 
 B.6. Primera presentación de visualización: El texto es breve, directo y utiliza tantos párrafos como son necesarios para separar las ideas. Además, destaca palabras claves y utiliza vínculos para ampliar la exploración del tema.
 
-B.7. Segunda visualización: Utiliza d3, funciona con datos obtenidos de un JSON.
+B.7. Segunda visualización: Utiliza d3.js, funciona con datos obtenidos de un JSON.
 
 B.8. Segunda presentación de visualización: El texto es breve, directo y utiliza tantos párrafos como son necesarios para separar las ideas. Además, destaca palabras claves y utiliza vínculos para ampliar la exploración del tema.
 
-B.9. Segunda visualización: Utiliza d3, funciona con datos obtenidos de un CSV.
+B.9. Tercera visualización: Utiliza d3.js, funciona con datos obtenidos de un CSV.
 
 B.10. Tercera presentación de visualización: El texto es breve, directo y utiliza tantos párrafos como son necesarios para separar las ideas. Además, destaca palabras claves y utiliza vínculos para ampliar la exploración del tema.
 
