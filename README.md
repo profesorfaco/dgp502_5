@@ -44,6 +44,7 @@ B.10. Tercera presentación de visualización: El texto es breve, directo y util
 - http://datos.gob.cl/dataset
 - https://github.com/jdorfman/awesome-json-datasets
 - https://www.cooldatasets.com/
+- http://www.datachile.io/
 
 - - - - 
 
